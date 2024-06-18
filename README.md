@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cliff</h1>
 <h3 align="center">I am a data analyst living in Den Haag Netherlands</h3>
 
-- 📝 I regularly write articles on [www.linkedin.com/in/cliffmugoto](www.linkedin.com/in/cliffmugoto)
+- 📝 I regularly write posts on LinkedIn [www.linkedin.com/in/cliffmugoto](www.linkedin.com/in/cliffmugoto)
 
 - 💬 Ask me about **data analytics and human rights**
 
