@@ -56,7 +56,7 @@ def print_personal_details():
     print("Email: cliffmugoto@gmail.com")
 
 def print_education():
-    print("\\nEducation:")
+    print("\nEducation:")
     print("Data Analytics Certificate")
     print("Le Wagon")
     print("Expected April 2024 - June 2024")
@@ -68,18 +68,18 @@ def print_education():
     print("2007 - 2011 | Midlands State University | Zimbabwe")
 
 def print_work_experience():
-    print("\\nWork Experience:")
+    print("\nWork Experience:")
     print("2019 - 2020 | Zimbabwe Human Rights Commission | Harare, Zimbabwe | Senior Human Rights Officer")
     print("2014 - 2018 | Zimbabwe Human Rights Commission | Bulawayo, Zimbabwe | Human Rights Officer")
     print("2011 - 2014 | Zimbabwe Human Rights Association | Masvingo, Zimbabwe | Projects and Education Officer")
 
 def print_digital_skills():
-    print("\\nDigital Skills:")
+    print("\nDigital Skills:")
     print("SQL, Python, DBT, Power BI, Microsoft Office, Microsoft Excel, Tableau, Zapier, Google Sheets, GIS")
 
 def main():
     while True:
-        print("\\nWhat information would you like to see?")
+        print("\nWhat information would you like to see?")
         print("1. Personal Details")
         print("2. Education")
         print("3. Work Experience")
