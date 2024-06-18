@@ -19,15 +19,7 @@
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Google BigQuery" width="40" height="40"/>
   </a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-    <img src="https://docs.getdbt.com/img/dbt-logo-2.svg" alt="DBT" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-2020.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png" alt="MS Excel" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
