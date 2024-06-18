@@ -31,12 +31,7 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
-  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="Google Sheets" width="40" height="40"/>
-  </a>
-  <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Esri_logo.svg" alt="GIS" width="40" height="40"/>
-  </a>
+
   <!-- Existing icons from your original snippet -->
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
