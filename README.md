@@ -60,21 +60,19 @@ def print_personal_details():
 def print_education():
 
     print("\nEducation:")
-    print("Data Analytics Certificate")
-    print("Le Wagon")
-    print("Expected April 2024 - June 2024")
-    print("Master of Science in Water and Sustainable Development")
-    print("2022 - 2023 | IHE Delft Institute of Water Education | Delft, Netherlands")
+    print("Data Analytics Certificate Le Wagon April 2024 - June 2024")
+    print("Master of Science in Water and Sustainable Development - 2022 - 2023")
+    print("IHE Delft Institute of Water Education | Delft, Netherlands - 2020 - 2021")
     print("Master of Arts in Development Studies, Major in Human Rights, Gender and Conflict Studies")
-    print("2020 - 2021 | International Institute of Social Studies of Erasmus University | Rotterdam, Netherlands")
-    print("Bachelor of Social Science Honors Degree in Local Governance Studies")
-    print("2007 - 2011 | Midlands State University | Zimbabwe")
+    print("International Institute of Social Studies of Erasmus University | Rotterdam, Netherlands")
+    print("Bachelor of Social Science Honors Degree in Local Governance Studies - 2007 - 2011")
+    print("Midlands State University | Zimbabwe")
 
 def print_work_experience():
 
     print("\nWork Experience:")
-    print("2019 - 2020 | Zimbabwe Human Rights Commission | Harare, Zimbabwe | Senior Human Rights Officer")
-    print("2014 - 2018 | Zimbabwe Human Rights Commission | Bulawayo, Zimbabwe | Human Rights Officer")
+    print("2019 - 2020 | Zimbabwe Human Rights Commission  | Harare, Zimbabwe   | Senior Human Rights Officer")
+    print("2014 - 2018 | Zimbabwe Human Rights Commission  | Bulawayo, Zimbabwe | Human Rights Officer")
     print("2011 - 2014 | Zimbabwe Human Rights Association | Masvingo, Zimbabwe | Projects and Education Officer")
 
 def print_digital_skills():
