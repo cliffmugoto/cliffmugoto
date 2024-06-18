@@ -52,10 +52,12 @@
 <pre>
 <code>
 def print_personal_details():
+    """Prints personal details of the user."""
     print("Name: Clifford Mugoto")
     print("Email: cliffmugoto@gmail.com")
 
 def print_education():
+    """Prints educational background of the user."""
     print("\nEducation:")
     print("Data Analytics Certificate")
     print("Le Wagon")
@@ -68,12 +70,14 @@ def print_education():
     print("2007 - 2011 | Midlands State University | Zimbabwe")
 
 def print_work_experience():
+    """Prints work experience of the user."""
     print("\nWork Experience:")
     print("2019 - 2020 | Zimbabwe Human Rights Commission | Harare, Zimbabwe | Senior Human Rights Officer")
     print("2014 - 2018 | Zimbabwe Human Rights Commission | Bulawayo, Zimbabwe | Human Rights Officer")
     print("2011 - 2014 | Zimbabwe Human Rights Association | Masvingo, Zimbabwe | Projects and Education Officer")
 
 def print_digital_skills():
+    """Prints digital skills of the user."""
     print("\nDigital Skills:")
     print("SQL, Python, DBT, Power BI, Microsoft Office, Microsoft Excel, Tableau, Zapier, Google Sheets, GIS")
 
@@ -86,20 +90,22 @@ def main():
         print("4. Digital Skills")
         print("5. Exit")
         
-        choice = input("Enter your choice (1-5): ")
-        
-        if choice == '1':
-            print_personal_details()
-        elif choice == '2':
-            print_education()
-        elif choice == '3':
-            print_work_experience()
-        elif choice == '4':
-            print_digital_skills()
-        elif choice == '5':
-            print("Exiting the application.")
-            break
-        else:
+        try:
+            choice = input("Enter your choice (1-5): ")
+            if choice == '1':
+                print_personal_details()
+            elif choice == '2':
+                print_education()
+            elif choice == '3':
+                print_work_experience()
+            elif choice == '4':
+                print_digital_skills()
+            elif choice == '5':
+                print("Exiting the application.")
+                break
+            else:
+                print("Invalid input, please enter a number between 1 and 5.")
+        except ValueError:
             print("Invalid input, please enter a number between 1 and 5.")
 
 if __name__ == "__main__":
